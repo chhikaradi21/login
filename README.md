@@ -1,5 +1,6 @@
 # Angular 5 
 This application is written in angular 5.
+Which is obsolette now.
 
 ### Features
 1. It uses Angular's inbuilt services for form validation and routing.
